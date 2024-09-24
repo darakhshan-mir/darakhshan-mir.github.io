@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Darakhshan Mir"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor of Computer Science, I study carceral algorithms, teach students to use computing as a critical analytical tool, and think about how to reduce injustice in the world."
+  bio              : "Associate Professor of Computer Science,
+  I study carceral algorithms, teach students to use computing as a critical analytical tool, and think about how to reduce injustice in the world."
   location         : "Lewisburg, PA"
   employer         : "Bucknell University"
   uri              : # URL
