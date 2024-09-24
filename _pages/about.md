@@ -10,6 +10,7 @@ redirect_from:
 I am an Associate Professor of Computer Science and the John P. and Mary Jane Swanson Professor in Engineering and the Sciences at Bucknell University. I am on sabbatical during the 2024-25 Academic Year visiting the [The THICC lab](https://sites.psu.edu/thicc/) led by [Dr. Christopher Dancy](https://sites.psu.edu/thicc/thicc-lab-members/), at Penn State University. 
 
 - My most recent research focuses on using computing to interrogate the logics, foundations, expressions, and outcomes of computational systems that determine, direct, support and/or rationalize incarceration of people, and, often, the conditions of incarceration. At a higher level, I am interested in using computing as a critical analytical tool to interrogate the dominant values embedded in "mainstream" computational systems (including what is often labeled as AI) and to instead imagine computational systems that embed values that seek to transform the world into a more just place.
+- I teach undergraduate students critical computational thinking -- using computing as an analytical lens to critically view our social, natural and built worlds, and when appropriate participate in building and re-building these worlds by critically considering the values underpinning these worlds --  through my courses and through involving students in research.
 - 
 
 Getting started
