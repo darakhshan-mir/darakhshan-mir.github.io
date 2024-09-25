@@ -20,7 +20,8 @@ I am also a non-resident fellow at [The Center for Democracy and Technology.](ht
 ### Recent Activities and News
 
 
-- **Sep:**
+- **August '24:** I presented at the The 18th Annual Engineering, Social Justice and Peace Conference held at
+Chalmers University of Technology Gothenburg, Sweden, reflecting on [_Interrogating Carceral Technologies and Creating Spaces of Rejection/Liberation in the Academy._] (https://esjp.org/esjp-conference-2024/esjp-2024-conference-on-site-session-descriptions#mir)
 
 
 
