@@ -19,8 +19,8 @@ I am also a non-resident fellow at [The Center for Democracy and Technology.](ht
 
 ### Recent Activities and News
 
-<div markdown="1" class="news">
+
 - **Sep:**
 
 
-</div>
+
