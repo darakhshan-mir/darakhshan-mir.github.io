@@ -22,6 +22,11 @@ I am also a non-resident fellow at [The Center for Democracy and Technology.](ht
 
 - **August '24:** I presented at the The 18th Annual Engineering, Social Justice and Peace Conference held at
 Chalmers University of Technology Gothenburg, Sweden, reflecting on [_Interrogating Carceral Technologies and Creating Spaces of Rejection/Liberation in the Academy._](https://esjp.org/esjp-conference-2024/esjp-2024-conference-on-site-session-descriptions#mir)
+- **June - August '24:** Vanessa Massaro, Nathan Ryan, Anne Ross, Sara Stoudt and I (all at Bucknell) mentored nine students at Bucknell who were the summer cohort of our Mozilla Bucknell-Boulder Just Computing Fellows. This work is funded by an award from the [Mozilla Foundation's Responsible Computing Challenge.](https://foundation.mozilla.org/en/blog/mozilla-announces-15-new-responsible-computing-challenge-awardees-in-the-us/)
+- **April '24:** Vanesssa Massaro, Nathan Ryan, Terrell Mosley and I co-authored a piece for Data & Society's [Keywords of the Datafied State] on countering the datafied carceral state titled [_Counterdata_](https://datasociety.net/wp-content/uploads/2024/04/Keywords_Counterdata_Massaro_Mir_Mosley_Ryan_04242024.pdf)
+- **April '24:** Vanessa Massaro, Nathan Ryan and I were awarded a grant from the National Endowment for the Humanities on[_(Re)locating trauma: Mapping the dangers of carceral algorithms through stories of incarceration_](https://apps.neh.gov/publicquery/AwardDetail.aspx?gn=DOC-299600-24.)
+- **Spring '24:** Launched the Just Computing Fellows program, a multidisciplinary, multi-institutional cohort of undergraduate students and faculty centering questions of justice in technology. This work is funded by an award from the [Mozilla Foundation's Responsible Computing Challenge.](https://foundation.mozilla.org/en/blog/mozilla-announces-15-new-responsible-computing-challenge-awardees-in-the-us/)
+
 
 
 
