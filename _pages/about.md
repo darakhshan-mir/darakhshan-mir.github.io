@@ -13,7 +13,6 @@ I am an Associate Professor of Computer Science and the John P. and Mary Jane Sw
 
 - In my courses and by involving undergraduate students in research, I teach _critical computational thinking_ -- using computing as an analytical lens to critically view our social, natural and built worlds, and when appropriate, participate in building and re-building these worlds by critically considering the values underpinning these worlds.
 
-- I collaborate with Dr. Vanessa Massaro and Dr. Nathan Ryan, both at Bucknell University to 
 
 I am also a non-resident fellow at [The Center for Democracy and Technology.](https://cdt.org/) Previously, I was a fellow at [Data & Society.](https://datasociety.net/) Before coming to Bucknell, I was Norma Wilentz Hess Fellow in the Department of Computer Science at Wellesley College, and earned my PhD in Computer Science at Rutgers, The State University of New Jersey with Dr. Rebecca Wright, and an MS in Computer Science at The George Washington University with Dr. Poorvi Vora.
 
