@@ -19,7 +19,6 @@ The syllabus for the Fall 2022 offering of the course can be found [here](https:
 Schedule
 ======
 
-The reading schedule can be found [here](
+The reading schedule can be found [here](https://sites.google.com/bucknell.edu/resc098-2629fall2022/schedule?authuser=0)
 
-Heading 3
-======
+
