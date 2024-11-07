@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Building a Just Computing Movement: Integrating curricular and co-curricular experiences"
+type: "Mozilla's Responsible Computing Challenge, 2023"
+collection: Grants
+permalink: [/teaching/2022-fall-teaching](https://foundation.mozilla.org/en/blog/mozilla-announces-15-new-responsible-computing-challenge-awardees-in-the-us/)
+venue: "Bucknell University and University of Colorado, Boulder"
+date: 2023-10-03
+location: "Lewisburg, PA"
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In 2023, 
+
+
+Publicly Accessible Material
+======
+
+Coming soon...
+
