@@ -8,7 +8,9 @@ date: 2023-10-03
 location: "Lewisburg, PA"
 ---
 
-In 2023, 
+In 2023-24, alongwith Evan Peck (CU Boulder), and Vanessa MassaroNathan Ryan, Anne Ross, and Sara Stoudt (all at Bucknell)
+
+Building a Just Computing Movement: Integrating curricular and co-curricular experiences
 
 
 Publicly Accessible Material
