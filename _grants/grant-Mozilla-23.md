@@ -1,8 +1,8 @@
 ---
 title: "Building a Just Computing Movement: Integrating curricular and co-curricular experiences"
 type: "Mozilla's Responsible Computing Challenge, 2023"
-collection: Grants
-permalink: grants/grant-Mozilla-23
+collection: teaching
+permalink: /grants/grant-Mozilla-23
 venue: "Bucknell University and University of Colorado, Boulder"
 date: 2023-10-03
 location: "Lewisburg, PA"
