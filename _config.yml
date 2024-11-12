@@ -260,7 +260,7 @@ defaults:
   # _grants
   - scope:
       path: ""
-      type: grants
+      type: teaching
     values:
       layout: single
       author_profile: true
