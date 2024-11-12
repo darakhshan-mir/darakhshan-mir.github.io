@@ -275,7 +275,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-    # _grants
+  # _grants
   - scope:
       path: ""
       type: grants
