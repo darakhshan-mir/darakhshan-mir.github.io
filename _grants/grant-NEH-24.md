@@ -1,4 +1,3 @@
-
 ---
 title: "(Re)locating Trauma: Mapping the Dangers of Carceral Algorithms through Stories of Incarceration"
 type: "National Endowment for the Humanities, 2024"
