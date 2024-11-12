@@ -220,9 +220,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  #grants:
-    #output: true
-    #permalink: /:collection/:path/   
+  grants:
+    output: true
+    permalink: /:collection/:path/   
   talks:
     output: true
     permalink: /:collection/:path/
@@ -252,6 +252,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _grants
+  - scope:
+      path: ""
+      type: grants
     values:
       layout: single
       author_profile: true
