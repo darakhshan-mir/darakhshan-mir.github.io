@@ -219,7 +219,10 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/  
+    permalink: /:collection/:path/ 
+  grants:
+    output: true
+    permalink: /:collection/:path
   talks:
     output: true
     permalink: /:collection/:path/
@@ -267,6 +270,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _grants
+  - scope:
+      path: ""
+      type: grants
     values:
       layout: single
       author_profile: true
